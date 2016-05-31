@@ -54,7 +54,7 @@ SECRET_KEY            = 'YOUR_SECRET_KEY'
 # = Global Settings =
 # ===================
 
-DEBUG                 = True
+DEBUG                 = False
 TEST_DEBUG            = False
 SEND_BROKEN_LINK_EMAILS = False
 DEBUG_QUERIES         = False
